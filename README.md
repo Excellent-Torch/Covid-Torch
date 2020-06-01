@@ -6,11 +6,12 @@ Type these commands below in the terminal to setup the requirements.
 ```
 apt install python2
 pip install --upgrade pip
+git clone https://github.com/Excellent-Torch/Covid-Torch.git
 cd /[Directory_Name]/Covid-Torch
 pip install -r requirements.txt
 
 ```
-**Just _run_ the below command to run the python script.**
+**Just _run_ the below command to launch the python script.**
 ```
 python2 Covid-Torch.py
 
