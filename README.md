@@ -13,6 +13,9 @@ pip install -r requirements.txt
 ```
 **Just _run_ the below command to launch the python script.**
 ```
+python Covid-Torch.py
+or
 python2 Covid-Torch.py
 
 ```
+![](Images/Covid_Torch-Github-SS.png)
